@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.robotkitkat6.twa",
+        "sha256_cert_fingerprints": ["C8:28:9F:6C:37:61:34:63:F3:7B:07:F8:DF:13:6B:0D:E8:F0:B0:4E:B1:46:D8:EF:6C:77:1C:60:BA:D5:34:09"]
+      }
+    }]
